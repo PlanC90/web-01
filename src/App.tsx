@@ -242,7 +242,7 @@ function App() {
               <a href="https://x.com/memexairdrop" target="_blank" rel="noopener noreferrer">
                 <Twitter className="w-6 h-6 text-blue-400 hover:text-blue-500" />
               </a>
-              <a href="https://t.me/memexairdropchannel" target="_blank" rel="noopener noreferrer">
+              <a href="https://t.me/MemeXGloball" target="_blank" rel="noopener noreferrer">
                 <MessageCircle className="w-6 h-6 text-blue-400 hover:text-blue-500" />
               </a>
             </div>
